@@ -7,7 +7,7 @@ I'm a front-end developer and a student at Lublin University of Technology, curr
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
 
 - **Email**: [vladyslav.crunch@gmail.com](mailto:vladyslav.crunch@gmail.com)
-- **LinkedIn**: [Vladyslav Tretiak]([https://www.linkedin.com/in/your-profile](www.linkedin.com/in/vladyslav-tretiak-64kb)
+- **LinkedIn**: [Vladyslav Tretiak](www.linkedin.com/in/vladyslav-tretiak-64kb)
 - **Twitter**: [@NeroCrunch](https://twitter.com/NeroCrunch)
 
 ## GitHub Stats
