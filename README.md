@@ -12,9 +12,6 @@ Feel free to reach out if you have any questions or if you'd like to collaborate
 - **Twitter**: [@NeroCrunch](https://twitter.com/NeroCrunch)
 
 
-## GitHub Stats
-![Vladyslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladyslav-crunch&show_icons=true&theme=radical)
-
 ## Languages and Tools
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
