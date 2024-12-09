@@ -9,7 +9,6 @@ Feel free to reach out if you have any questions or if you'd like to collaborate
 - **Email**: [vladyslav.crunch@gmail.com](mailto:vladyslav.crunch@gmail.com)
 - **Telegram**: [@vladyslav_crunch](https://t.me/vladyslav_crunch)
 - **LinkedIn**: [Vladyslav Tretiak](www.linkedin.com/in/vladyslav-tretiak-64kb)
-- **Twitter**: [@NeroCrunch](https://x.com/NeroCrunch)
 
 
 ## Languages and Tools
