@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Vladyslav ☃️
+# Hi there 👋, my name is Vladyslav 
 
 ## About Me
 I'm a front-end developer and a student at Lublin University of Technology, currently pursuing a degree in Computer Science. My passion for technology and web development drives me to continually learn and improve my skills.
